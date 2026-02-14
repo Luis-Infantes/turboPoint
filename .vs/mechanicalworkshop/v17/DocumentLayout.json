@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tajamar\\Angular\\mechanicalworkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\directives\\final-price.directive.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\directives\\final-price.directive.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\pipes\\filter-vehicle-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pipes\\filter-vehicle-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\data\\dataSource.data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\dataSource.data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\pipes\\filter-priority-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pipes\\filter-priority-pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\services\\pricing-policy.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\pricing-policy.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\workshop-component\\workshop-component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\workshop-component\\workshop-component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\workshop-component\\workshop-component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\models\\repair-order.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\models\\repair-order.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "workshop-component.css",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.css",
+              "RelativeDocumentMoniker": "src\\components\\workshop-component\\workshop-component.css",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.css",
+              "RelativeToolTip": "src\\components\\workshop-component\\workshop-component.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-14T07:34:03.527Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "workshop-component.html",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.html",
+              "RelativeDocumentMoniker": "src\\components\\workshop-component\\workshop-component.html",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.html",
+              "RelativeToolTip": "src\\components\\workshop-component\\workshop-component.html",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-12T11:25:40.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-14T08:43:35.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "src\\app\\app.css",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\app\\app.css",
+              "RelativeToolTip": "src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-14T08:20:24.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:618693198:0:{13143d73-808b-4a2f-bebb-ccbe9c93fe37}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-14T07:15:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "workshop-component.ts",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.ts",
+              "RelativeDocumentMoniker": "src\\components\\workshop-component\\workshop-component.ts",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\components\\workshop-component\\workshop-component.ts",
+              "RelativeToolTip": "src\\components\\workshop-component\\workshop-component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T11:23:41.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dataSource.data.ts",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\data\\dataSource.data.ts",
+              "RelativeDocumentMoniker": "src\\data\\dataSource.data.ts",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\data\\dataSource.data.ts",
+              "RelativeToolTip": "src\\data\\dataSource.data.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T11:23:11.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "final-price.directive.ts",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\directives\\final-price.directive.ts",
+              "RelativeDocumentMoniker": "src\\directives\\final-price.directive.ts",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\directives\\final-price.directive.ts",
+              "RelativeToolTip": "src\\directives\\final-price.directive.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T11:15:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "repair-order.model.ts",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\models\\repair-order.model.ts",
+              "RelativeDocumentMoniker": "src\\models\\repair-order.model.ts",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\models\\repair-order.model.ts",
+              "RelativeToolTip": "src\\models\\repair-order.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T11:15:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "filter-priority-pipe.ts",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\pipes\\filter-priority-pipe.ts",
+              "RelativeDocumentMoniker": "src\\pipes\\filter-priority-pipe.ts",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\pipes\\filter-priority-pipe.ts",
+              "RelativeToolTip": "src\\pipes\\filter-priority-pipe.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T11:14:42.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "filter-vehicle-pipe.ts",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\pipes\\filter-vehicle-pipe.ts",
+              "RelativeDocumentMoniker": "src\\pipes\\filter-vehicle-pipe.ts",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\pipes\\filter-vehicle-pipe.ts",
+              "RelativeToolTip": "src\\pipes\\filter-vehicle-pipe.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T11:14:16.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pricing-policy.service.ts",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\services\\pricing-policy.service.ts",
+              "RelativeDocumentMoniker": "src\\services\\pricing-policy.service.ts",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\services\\pricing-policy.service.ts",
+              "RelativeToolTip": "src\\services\\pricing-policy.service.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-02-12T11:12:55.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Tajamar\\Angular\\mechanicalworkshop\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-12T11:12:50.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

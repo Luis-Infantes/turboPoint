@@ -1,0 +1,61 @@
+
+
+.container {
+  background-color: rgb(52, 69, 81,0.8);
+}
+
+
+.container select {
+  background-color: rgb(52, 69, 81,0.8);
+}
+
+  .container label {
+    color: #f9cd33;
+  }
+
+  .container select,
+
+  .container option {
+    color: #f9cd33;
+  
+  }
+
+
+.title-style {
+    display:flex;
+    align-items:center;
+    gap: 15px;
+    
+}
+
+.title-style img {
+  width: 100px;
+}
+
+
+  .title-style h1 {
+    margin-top: 38px;
+    color: #f9cd33;
+  }
+
+
+.extras-style {
+  background-color: rgb(52, 69, 81,0.8);
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  
+}
+
+  .extras-style h4 {
+
+    color: #f9cd33;
+  }
+
+
+
+
+  .footer-style p {
+    color: #f9cd33;
+    text-align:center;
+    margin-top:20px;
+  }
