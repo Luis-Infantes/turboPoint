@@ -1,59 +1,123 @@
-# Mechanicalworkshop
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.2.
+# **TurboPoint — Repair Shop (Table Exercise and Price Calculation)**
 
-## Development server
+This project is a small exercise created to practice working with dynamic tables, filters, and the automatic recalculation of prices when applying surcharges and discounts. 
+The goal is to show how basic data is handled and how final values change depending on different conditions.
 
-To start a local development server, run:
+---
 
-```bash
-ng serve
-```
+## Data Model
+| Field | Description |
+|-------|-------------|
+| **Id** | Record identifier |
+| **Client** | Customer name |
+| **Vehicle** | Car, motorcycle, or truck |
+| **Repair type** | Selected service |
+| **Priority** | Low · Medium · High |
+| **Base price** | Initial cost |
+| **Total price** | Automatically recalculated |
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## Price Calculation Logic
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+The total price updates automatically according to:
 
-```bash
-ng generate component component-name
-```
+### Surcharges (High priority only)
+There are three surcharge levels depending on the urgency.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+### Discounts
+- **20%** for orders above **€200**.  
+- **20%** for **premium clients** (highlighted in green).
 
-```bash
-ng generate --help
-```
+Surcharges and discounts can be combined without issues.
 
-## Building
+---
 
-To build the project run:
+## Interface
+- Visual icons to distinguish priority levels.  
+- Dynamic table with color‑coded premium clients.
 
-```bash
-ng build
-```
+---
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+## Custom Filters
+This exercise includes two **custom pipes**:
+- Filter by vehicle type.  
+- Filter by priority.
 
-## Running unit tests
+Both filters can be applied simultaneously.
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+---
 
-```bash
-ng test
-```
+## Technologies Used
+This exercise was built using:
+- Angular  
+- TypeScript  
+- HTML / CSS  
+- Node.js
 
-## Running end-to-end tests
+---------------------------------------------------------------------------------------------------------------------------
 
-For end-to-end (e2e) testing, run:
 
-```bash
-ng e2e
-```
+# **TurboPoint — Taller de Reparación (Ejercicio de tabla y cálculo de precios)**
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
-## Additional Resources
+Este proyecto es un pequeño ejercicio creado para practicar el manejo de tablas dinámicas, filtros y el recálculo automático de precios al aplicar recargos y descuentos.  
+El objetivo es mostrar cómo se gestionan datos básicos y cómo cambian los valores finales según diferentes condiciones.
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+---
+
+
+## Modelo de datos
+| Campo | Descripción |
+|-------|-------------|
+| **Id** | Identificador del registro |
+| **Cliente** | Nombre del cliente |
+| **Vehículo** | Coche, moto o camión |
+| **Tipo de reparación** | Servicio seleccionado |
+| **Prioridad** | Low · Medium · High |
+| **Precio base** | Coste inicial |
+| **Precio total** | Se recalcula automáticamente |
+
+---
+
+## Lógica del cálculo del precio
+
+El precio total se actualiza automáticamente según:
+
+### Recargos (solo para prioridad High)
+
+Existen tres niveles de recargo dependiendo de la urgencia.
+
+### Descuentos
+- **20%** para pedidos mayores de **200€**.  
+- **20%** para **clientes premium** (marcados en verde).
+
+Los descuentos y recargos pueden combinarse sin problemas.
+
+---
+
+## Interfaz
+- Iconos visuales para distinguir prioridades.  
+- Tabla dinámica con colores para clientes premium.
+
+---
+
+## Filtros personalizados
+El ejercicio incluye dos **pipes personalizadas**:
+- Filtro por tipo de vehículo.  
+- Filtro por prioridad.
+
+Ambos filtros funcionan a la vez.
+
+---
+
+## Tecnologías utilizadas
+Ejercicio realizado con:
+- Angular  
+- TypeScript  
+- HTML / CSS
+- Node.js
+
+
